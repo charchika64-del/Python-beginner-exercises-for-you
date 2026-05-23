@@ -1,0 +1,10 @@
+#We have to identify datatypes of 12.5,-3,True,"hello",1.45,-5.6,"yup","11" by using type function
+print(type(12.5))
+print(type(-3))
+print(type(True))
+print(type("hello"))
+print(type(1.45))
+print(type(-5.6))
+print(type("yup"))
+print(type("11"))
+#if you will run this code the last line has a string datatype instead of integer.The reason is that string is a datatype in quotes .So, any integer inside quotes is string.
