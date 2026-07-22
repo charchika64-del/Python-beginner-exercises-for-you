@@ -7,5 +7,5 @@ If you are new to python and have came to this repo, then you are on the right p
 3. Take two numbers assign them to variables and then add them and show the output.(saved as Add_nums.py)
 4. Given 12.5,-3,True,"hello",1.45,-5.6,"yup","11" , find their datatypes.
 ## Level 2 👦(comparison operators,if-elif-else)
-5. Create a program which checks whether the input age is above 18 or not.
-6. Create a program which takes a number and checks it is positive, negative or zero
+5. Create a program which checks whether the input age is above 18 or not.(saved as Eligibility_check.py)
+6. Create a program which takes a number and checks it is positive, negative or zero.(saved as Integer_type.py)
