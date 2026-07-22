@@ -7,3 +7,4 @@ If you are new to python and have came to this repo, then you are on the right p
 3. Take two numbers assign them to variables and then add them and show the output.(saved as Add_nums.py)
 4. Given 12.5,-3,True,"hello",1.45,-5.6,"yup","11" , find their datatypes.
 ## Level 2 👦(comparison operators,if-elif-else)
+5. 
